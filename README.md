@@ -10,7 +10,7 @@
 - 2º Na barra superior do Google Planilhas clique em Ferramentas > Editor de Script.
 - 3º Copie o código abaixo na tela que irá abrir.
 - 4º Dê as permissões necessárias. 
-- 5º Copie um CEP válido, com oito digitos e sem hifen no formato texto simples. 
+- 5º Copie um CEP válido, com oito digitos e sem hifen no formato texto simples e coloque no lugar indicado.
 - 6º A essa altura existe um menu na barra superior chamado 'Busca CEP' clique nele e pronto a API era trazer para sua planilha as informações de  Logradouro, Bairro, Cidade, Estado e DDD.
 
 ```javascript
