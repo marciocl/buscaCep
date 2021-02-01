@@ -6,7 +6,7 @@ Uma função para o google planilhas que busca o CEP por API e traz dentro da pl
 
 ## Vou colocar aqui um passo a passo para facilitar a vida de quem não programa.
 
-- 1º Faça uma cópia da minha planilha.
+- 1º Faça uma cópia da minha planilha.([Planilha](http://bit.ly/busca_CEP)
 - 2º Na barra superior do Google Planilhas clique em Ferramentas > Editor de Script.
 - 3º Copie o código abaixo na tela que irá abrir.
 - 4º Dê as permissões necessárias. 
