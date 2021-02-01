@@ -13,8 +13,7 @@ Uma função para o google planilhas que busca o CEP por API e traz dentro da pl
 - 5º Copie um CEP válido, com oito digitos e sem hifen no formato texto simples. 
 - 6º A essa altura existe um menu na barra superior chamado 'Busca CEP' clique nele e pronto a API era trazer para sua planilha as informações de  Logradouro, Bairro, Cidade, Estado e DDD
 
-'''javascript
-
+```javascript
 function onOpen () 
 {
   var ui = SpreadsheetApp.getUi ();
@@ -22,6 +21,12 @@ function onOpen ()
       .addItem ('Buscar CEP', 'myFunction')
       .addToUi ();
 }
+```
+
+
+
+
+```javascript
 function myFunction () 
 
 {
@@ -53,5 +58,4 @@ sheet.getRange(lastRow+i, 5).setValue(data.uf);
 sheet.getRange(lastRow+i, 6).setValue(data.ddd);
 
 }
-
-'''
+```
