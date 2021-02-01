@@ -62,3 +62,7 @@ sheet.getRange(lastRow+i, 6).setValue(data.ddd);
 
 }
 ```
+
+# Roadmap da planilha
+[ ] - Fazer mais de uma consulta por vez.
+
