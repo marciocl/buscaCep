@@ -1,17 +1,17 @@
 # buscaCep
-Uma função para o google planilhas que busca o CEP por API e traz dentro da planilha, Logradouro, Bairro, Cidade, Estado e DDD.
+## Uma função para o google planilhas que busca o CEP por API e traz dentro da planilha, Logradouro, Bairro, Cidade, Estado e DDD.
 
 
-### É uma função bem simples e objetivo é ajudar pessoas que trabalham com tabelas de Cep e precisam ficar copiando e colando informações em uma planilha. 
+##### É uma função bem simples e objetivo é ajudar pessoas que trabalham com tabelas de Cep e precisam ficar copiando e colando informações em uma planilha. 
 
-## Vou colocar aqui um passo a passo para facilitar a vida de quem não programa.
+##### Vou colocar aqui um passo a passo para facilitar a vida de quem não programa.
 
 - 1º Faça uma cópia da minha planilha.([Planilha](http://bit.ly/busca_CEP))
 - 2º Na barra superior do Google Planilhas clique em Ferramentas > Editor de Script.
 - 3º Copie o código abaixo na tela que irá abrir.
 - 4º Dê as permissões necessárias. 
 - 5º Copie um CEP válido, com oito digitos e sem hifen no formato texto simples. 
-- 6º A essa altura existe um menu na barra superior chamado 'Busca CEP' clique nele e pronto a API era trazer para sua planilha as informações de  Logradouro, Bairro, Cidade, Estado e DDD
+- 6º A essa altura existe um menu na barra superior chamado 'Busca CEP' clique nele e pronto a API era trazer para sua planilha as informações de  Logradouro, Bairro, Cidade, Estado e DDD.
 
 ```javascript
 function onOpen () 
