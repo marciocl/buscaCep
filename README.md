@@ -12,6 +12,9 @@
 - 4º Dê as permissões necessárias. 
 - 5º Copie um CEP válido, com oito digitos e sem hifen no formato texto simples e coloque no lugar indicado.
 - 6º A essa altura existe um menu na barra superior chamado 'Busca CEP' clique nele e pronto a API era trazer para sua planilha as informações de  Logradouro, Bairro, Cidade, Estado e DDD.
+- 7º Se tiver alguma dúvida me mande um email: omarciocavalcante@gmail.com
+
+
 
 ```javascript
 function onOpen () 
